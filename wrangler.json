@@ -1,5 +1,5 @@
 {
   "name": "cloudflare-ip-worker",
   "main": "CF-Worker/_worker.js",
-  "compatibility_date": "2026-01-21"
+  "compatibility_date": "2026-01-22"
 }
